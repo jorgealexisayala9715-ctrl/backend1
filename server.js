@@ -66,3 +66,5 @@ const startServer = async () => {
 
 // Ejecuta la función
 startServer();
+
+//lo quer tenemos ahora esssss  o lo que aremos sera hacer un git add .git 
